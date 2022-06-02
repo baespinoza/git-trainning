@@ -3,3 +3,5 @@ This is the file for the Git tutorial. See the [Notion page](https://www.notion.
 ##Content
 This is the paragraph 1, it should be located at the top of the content section.
 Any other content should be below it.
+This is the paragraph 2, it should be located at the bottom of the content section.
+Other content should be above it.
